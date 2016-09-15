@@ -815,7 +815,7 @@ a#email_footer:before{
 #hero {
     position: relative;
     height: 600px;
-    background: #4d536d url(../img/slide_hero.jpg) no-repeat center center;
+    background: #4d536d url(https://pixabay.com/static/uploads/photo/2013/07/18/10/59/pulse-trace-163708_960_720.jpg) no-repeat center center;
     background-size: cover;
     color:#fff;
 	width: 100%;
